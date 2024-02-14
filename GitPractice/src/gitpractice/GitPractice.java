@@ -6,7 +6,7 @@ package gitpractice;
 
 /**
  *
- * @author caraI
+ * @author millekel
  */
 public class GitPractice {
 
@@ -14,11 +14,15 @@ public class GitPractice {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
-        
-        
+
         System.out.println("Some message lol");
-        
+       
+        System.out.println("I am the first Sith Lord");
+  
+        System.out.println("Some message");
+        // TODO code application logic here
+        System.out.println("\"A good programmer is someone who always looks both "
+                + "ways before crossing a one-way street.\" - Doug Linder, computer scientist");          
     }
-    
+
 }
