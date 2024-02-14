@@ -6,7 +6,7 @@ package gitpractice;
 
 /**
  *
- * @author HillS
+ * @author millekel
  */
 public class GitPractice {
 
@@ -15,6 +15,13 @@ public class GitPractice {
      */
     public static void main(String[] args) {
         System.out.println("I am the first Sith Lord");
+  
+        System.out.println("Some message");
+        // TODO code application logic here
+        System.out.println("\"A good programmer is someone who always looks both "
+                + "ways before crossing a one-way street.\" - Doug Linder, computer scientist");
+        
+        
     }
-    
+
 }
